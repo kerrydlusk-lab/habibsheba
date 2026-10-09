@@ -1,0 +1,6 @@
+# Robots.txt for Md. Habibur Rahman Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://newnagorweb.com/sitemap.xml
